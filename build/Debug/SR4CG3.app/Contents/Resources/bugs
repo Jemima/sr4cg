@@ -1,0 +1,1 @@
+None of the items for the first mission in the list besides the name are loaded. They are saved correctly and are stored in the save file (until the next save, since it's not loaded, and is thus blank).

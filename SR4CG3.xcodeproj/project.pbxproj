@@ -1,0 +1,402 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1DDD582C0DA1D0D100B32029 /* MyDocument.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58280DA1D0D100B32029 /* MyDocument.xib */; };
+		1DDD582D0DA1D0D100B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD582A0DA1D0D100B32029 /* MainMenu.xib */; };
+		6301C1BA113B3142003AFAA0 /* bugs in Resources */ = {isa = PBXBuildFile; fileRef = 6301C1B9113B3142003AFAA0 /* bugs */; };
+		630794AB1112C6E0000CA296 /* Dice.m in Sources */ = {isa = PBXBuildFile; fileRef = 630794AA1112C6E0000CA296 /* Dice.m */; };
+		63134ACA112A05A800078634 /* Data.m in Sources */ = {isa = PBXBuildFile; fileRef = 63134AC9112A05A800078634 /* Data.m */; };
+		632FFD2E112A6CEC00EB6A26 /* skills in Resources */ = {isa = PBXBuildFile; fileRef = 632FFD2D112A6CEC00EB6A26 /* skills */; };
+		632FFE43112A788D00EB6A26 /* Stats.m in Sources */ = {isa = PBXBuildFile; fileRef = 632FFE42112A788D00EB6A26 /* Stats.m */; };
+		6352ADE3112E2024004BADB0 /* vehiclemods in Resources */ = {isa = PBXBuildFile; fileRef = 6352ADE2112E2024004BADB0 /* vehiclemods */; };
+		63B228F4112CCA7E0084AA51 /* vehicles in Resources */ = {isa = PBXBuildFile; fileRef = 63B228F3112CCA7E0084AA51 /* vehicles */; };
+		63B228F7112D01200084AA51 /* Vehicles.m in Sources */ = {isa = PBXBuildFile; fileRef = 63B228F6112D01200084AA51 /* Vehicles.m */; };
+		63B228FA112D01EA0084AA51 /* Vehicle.m in Sources */ = {isa = PBXBuildFile; fileRef = 63B228F9112D01EA0084AA51 /* Vehicle.m */; };
+		63C6522C111EB4BC009C42B2 /* Skills.m in Sources */ = {isa = PBXBuildFile; fileRef = 63C6522B111EB4BC009C42B2 /* Skills.m */; };
+		63C65230111EBD95009C42B2 /* Skill.m in Sources */ = {isa = PBXBuildFile; fileRef = 63C6522F111EBD95009C42B2 /* Skill.m */; };
+		63E934D9110C035200CB124D /* General.m in Sources */ = {isa = PBXBuildFile; fileRef = 63E934D8110C035200CB124D /* General.m */; };
+		63E934DC110C063000CB124D /* Dice.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63E934DB110C063000CB124D /* Dice.xib */; };
+		63EDD4781108432200C4DD4B /* Missions.m in Sources */ = {isa = PBXBuildFile; fileRef = 63EDD4771108432200C4DD4B /* Missions.m */; };
+		63EDD47E110843EE00C4DD4B /* Mission.m in Sources */ = {isa = PBXBuildFile; fileRef = 63EDD47D110843EE00C4DD4B /* Mission.m */; };
+		63FE7EB6112A9865001EB178 /* Spells.m in Sources */ = {isa = PBXBuildFile; fileRef = 63FE7EB5112A9865001EB178 /* Spells.m */; };
+		63FE7EBE112A9990001EB178 /* Spell.m in Sources */ = {isa = PBXBuildFile; fileRef = 63FE7EBD112A9990001EB178 /* Spell.m */; };
+		63FE7EC5112A9C06001EB178 /* spells in Resources */ = {isa = PBXBuildFile; fileRef = 63FE7EC4112A9C06001EB178 /* spells */; };
+		8D15AC2C0486D014006FF6A4 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 2A37F4B9FDCFA73011CA2CEA /* Credits.rtf */; };
+		8D15AC2F0486D014006FF6A4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165FFE840EACC02AAC07 /* InfoPlist.strings */; };
+		8D15AC310486D014006FF6A4 /* MyDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */; settings = {ATTRIBUTES = (); }; };
+		8D15AC320486D014006FF6A4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A37F4B0FDCFA73011CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D15AC340486D014006FF6A4 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A7FEA54F5311CA2CBB /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C1660FE840EACC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A7FEA54F5311CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		13E42FBA07B3F13500E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		1DDD58290DA1D0D100B32029 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MyDocument.xib; sourceTree = "<group>"; };
+		1DDD582B0DA1D0D100B32029 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyDocument.m; sourceTree = "<group>"; };
+		2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyDocument.h; sourceTree = "<group>"; };
+		2A37F4B0FDCFA73011CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2A37F4BAFDCFA73011CA2CEA /* English */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = English; path = English.lproj/Credits.rtf; sourceTree = "<group>"; };
+		2A37F4C4FDCFA73011CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		2A37F4C5FDCFA73011CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		32DBCF750370BD2300C91783 /* SR4CG3_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SR4CG3_Prefix.pch; sourceTree = "<group>"; };
+		6301C1B9113B3142003AFAA0 /* bugs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bugs; sourceTree = "<group>"; };
+		630794A91112C6E0000CA296 /* Dice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Dice.h; sourceTree = "<group>"; };
+		630794AA1112C6E0000CA296 /* Dice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Dice.m; sourceTree = "<group>"; };
+		63134AC8112A05A800078634 /* Data.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Data.h; sourceTree = "<group>"; };
+		63134AC9112A05A800078634 /* Data.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Data.m; sourceTree = "<group>"; };
+		632FFD2D112A6CEC00EB6A26 /* skills */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = skills; sourceTree = "<group>"; };
+		632FFE41112A788D00EB6A26 /* Stats.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Stats.h; sourceTree = "<group>"; };
+		632FFE42112A788D00EB6A26 /* Stats.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Stats.m; sourceTree = "<group>"; };
+		6352ADE2112E2024004BADB0 /* vehiclemods */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = vehiclemods; sourceTree = "<group>"; };
+		63B228F3112CCA7E0084AA51 /* vehicles */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = vehicles; sourceTree = "<group>"; };
+		63B228F5112D01200084AA51 /* Vehicles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Vehicles.h; sourceTree = "<group>"; };
+		63B228F6112D01200084AA51 /* Vehicles.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Vehicles.m; sourceTree = "<group>"; };
+		63B228F8112D01EA0084AA51 /* Vehicle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Vehicle.h; sourceTree = "<group>"; };
+		63B228F9112D01EA0084AA51 /* Vehicle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Vehicle.m; sourceTree = "<group>"; };
+		63C6522A111EB4BC009C42B2 /* Skills.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Skills.h; sourceTree = "<group>"; };
+		63C6522B111EB4BC009C42B2 /* Skills.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Skills.m; sourceTree = "<group>"; };
+		63C6522E111EBD95009C42B2 /* Skill.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Skill.h; sourceTree = "<group>"; };
+		63C6522F111EBD95009C42B2 /* Skill.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Skill.m; sourceTree = "<group>"; };
+		63E934D7110C035200CB124D /* General.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = General.h; sourceTree = "<group>"; };
+		63E934D8110C035200CB124D /* General.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = General.m; sourceTree = "<group>"; };
+		63E934DB110C063000CB124D /* Dice.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Dice.xib; sourceTree = "<group>"; };
+		63EDD4761108432200C4DD4B /* Missions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Missions.h; sourceTree = "<group>"; };
+		63EDD4771108432200C4DD4B /* Missions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Missions.m; sourceTree = "<group>"; };
+		63EDD47C110843EE00C4DD4B /* Mission.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mission.h; sourceTree = "<group>"; };
+		63EDD47D110843EE00C4DD4B /* Mission.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Mission.m; sourceTree = "<group>"; };
+		63FE7EB4112A9865001EB178 /* Spells.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Spells.h; sourceTree = "<group>"; };
+		63FE7EB5112A9865001EB178 /* Spells.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Spells.m; sourceTree = "<group>"; };
+		63FE7EBC112A9990001EB178 /* Spell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Spell.h; sourceTree = "<group>"; };
+		63FE7EBD112A9990001EB178 /* Spell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Spell.m; sourceTree = "<group>"; };
+		63FE7EC4112A9C06001EB178 /* spells */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = spells; sourceTree = "<group>"; };
+		8D15AC360486D014006FF6A4 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D15AC370486D014006FF6A4 /* SR4CG3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SR4CG3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D15AC330486D014006FF6A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D15AC340486D014006FF6A4 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1058C7A6FEA54F5311CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A7FEA54F5311CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A8FEA54F5311CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2A37F4C4FDCFA73011CA2CEA /* AppKit.framework */,
+				13E42FBA07B3F13500E4EEF1 /* CoreData.framework */,
+				2A37F4C5FDCFA73011CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FB0FE9D524F11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D15AC370486D014006FF6A4 /* SR4CG3.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2A37F4AAFDCFA73011CA2CEA /* SR4CG3 */ = {
+			isa = PBXGroup;
+			children = (
+				2A37F4ABFDCFA73011CA2CEA /* Classes */,
+				2A37F4AFFDCFA73011CA2CEA /* Other Sources */,
+				2A37F4B8FDCFA73011CA2CEA /* Resources */,
+				2A37F4C3FDCFA73011CA2CEA /* Frameworks */,
+				19C28FB0FE9D524F11CA2CBB /* Products */,
+			);
+			name = SR4CG3;
+			sourceTree = "<group>";
+		};
+		2A37F4ABFDCFA73011CA2CEA /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */,
+				2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */,
+				63EDD4761108432200C4DD4B /* Missions.h */,
+				63EDD4771108432200C4DD4B /* Missions.m */,
+				63EDD47C110843EE00C4DD4B /* Mission.h */,
+				63EDD47D110843EE00C4DD4B /* Mission.m */,
+				63E934D7110C035200CB124D /* General.h */,
+				63E934D8110C035200CB124D /* General.m */,
+				630794A91112C6E0000CA296 /* Dice.h */,
+				630794AA1112C6E0000CA296 /* Dice.m */,
+				63C6522A111EB4BC009C42B2 /* Skills.h */,
+				63C6522B111EB4BC009C42B2 /* Skills.m */,
+				63C6522E111EBD95009C42B2 /* Skill.h */,
+				63C6522F111EBD95009C42B2 /* Skill.m */,
+				63134AC8112A05A800078634 /* Data.h */,
+				63134AC9112A05A800078634 /* Data.m */,
+				632FFE41112A788D00EB6A26 /* Stats.h */,
+				632FFE42112A788D00EB6A26 /* Stats.m */,
+				63FE7EB4112A9865001EB178 /* Spells.h */,
+				63FE7EB5112A9865001EB178 /* Spells.m */,
+				63FE7EBC112A9990001EB178 /* Spell.h */,
+				63FE7EBD112A9990001EB178 /* Spell.m */,
+				63B228F5112D01200084AA51 /* Vehicles.h */,
+				63B228F6112D01200084AA51 /* Vehicles.m */,
+				63B228F8112D01EA0084AA51 /* Vehicle.h */,
+				63B228F9112D01EA0084AA51 /* Vehicle.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		2A37F4AFFDCFA73011CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32DBCF750370BD2300C91783 /* SR4CG3_Prefix.pch */,
+				2A37F4B0FDCFA73011CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		2A37F4B8FDCFA73011CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				632FFD2D112A6CEC00EB6A26 /* skills */,
+				2A37F4B9FDCFA73011CA2CEA /* Credits.rtf */,
+				8D15AC360486D014006FF6A4 /* Info.plist */,
+				089C165FFE840EACC02AAC07 /* InfoPlist.strings */,
+				1DDD58280DA1D0D100B32029 /* MyDocument.xib */,
+				1DDD582A0DA1D0D100B32029 /* MainMenu.xib */,
+				63E934DB110C063000CB124D /* Dice.xib */,
+				63FE7EC4112A9C06001EB178 /* spells */,
+				63B228F3112CCA7E0084AA51 /* vehicles */,
+				6352ADE2112E2024004BADB0 /* vehiclemods */,
+				6301C1B9113B3142003AFAA0 /* bugs */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		2A37F4C3FDCFA73011CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A6FEA54F5311CA2CBB /* Linked Frameworks */,
+				1058C7A8FEA54F5311CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D15AC270486D014006FF6A4 /* SR4CG3 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C05733C708A9546B00998B17 /* Build configuration list for PBXNativeTarget "SR4CG3" */;
+			buildPhases = (
+				8D15AC2B0486D014006FF6A4 /* Resources */,
+				8D15AC300486D014006FF6A4 /* Sources */,
+				8D15AC330486D014006FF6A4 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SR4CG3;
+			productInstallPath = "$(HOME)/Applications";
+			productName = SR4CG3;
+			productReference = 8D15AC370486D014006FF6A4 /* SR4CG3.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C05733CB08A9546B00998B17 /* Build configuration list for PBXProject "SR4CG3" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 2A37F4AAFDCFA73011CA2CEA /* SR4CG3 */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D15AC270486D014006FF6A4 /* SR4CG3 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D15AC2B0486D014006FF6A4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D15AC2C0486D014006FF6A4 /* Credits.rtf in Resources */,
+				8D15AC2F0486D014006FF6A4 /* InfoPlist.strings in Resources */,
+				1DDD582C0DA1D0D100B32029 /* MyDocument.xib in Resources */,
+				1DDD582D0DA1D0D100B32029 /* MainMenu.xib in Resources */,
+				63E934DC110C063000CB124D /* Dice.xib in Resources */,
+				632FFD2E112A6CEC00EB6A26 /* skills in Resources */,
+				63FE7EC5112A9C06001EB178 /* spells in Resources */,
+				63B228F4112CCA7E0084AA51 /* vehicles in Resources */,
+				6352ADE3112E2024004BADB0 /* vehiclemods in Resources */,
+				6301C1BA113B3142003AFAA0 /* bugs in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D15AC300486D014006FF6A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D15AC310486D014006FF6A4 /* MyDocument.m in Sources */,
+				8D15AC320486D014006FF6A4 /* main.m in Sources */,
+				63EDD4781108432200C4DD4B /* Missions.m in Sources */,
+				63EDD47E110843EE00C4DD4B /* Mission.m in Sources */,
+				63E934D9110C035200CB124D /* General.m in Sources */,
+				630794AB1112C6E0000CA296 /* Dice.m in Sources */,
+				63C6522C111EB4BC009C42B2 /* Skills.m in Sources */,
+				63C65230111EBD95009C42B2 /* Skill.m in Sources */,
+				63134ACA112A05A800078634 /* Data.m in Sources */,
+				632FFE43112A788D00EB6A26 /* Stats.m in Sources */,
+				63FE7EB6112A9865001EB178 /* Spells.m in Sources */,
+				63FE7EBE112A9990001EB178 /* Spell.m in Sources */,
+				63B228F7112D01200084AA51 /* Vehicles.m in Sources */,
+				63B228FA112D01EA0084AA51 /* Vehicle.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165FFE840EACC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C1660FE840EACC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		1DDD58280DA1D0D100B32029 /* MyDocument.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1DDD58290DA1D0D100B32029 /* English */,
+			);
+			name = MyDocument.xib;
+			sourceTree = "<group>";
+		};
+		1DDD582A0DA1D0D100B32029 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1DDD582B0DA1D0D100B32029 /* English */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		2A37F4B9FDCFA73011CA2CEA /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2A37F4BAFDCFA73011CA2CEA /* English */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C05733C808A9546B00998B17 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SR4CG3_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = SR4CG3;
+			};
+			name = Debug;
+		};
+		C05733C908A9546B00998B17 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SR4CG3_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = SR4CG3;
+			};
+			name = Release;
+		};
+		C05733CC08A9546B00998B17 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Debug;
+		};
+		C05733CD08A9546B00998B17 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C05733C708A9546B00998B17 /* Build configuration list for PBXNativeTarget "SR4CG3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C05733C808A9546B00998B17 /* Debug */,
+				C05733C908A9546B00998B17 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C05733CB08A9546B00998B17 /* Build configuration list for PBXProject "SR4CG3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C05733CC08A9546B00998B17 /* Debug */,
+				C05733CD08A9546B00998B17 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2A37F4A9FDCFA73011CA2CEA /* Project object */;
+}

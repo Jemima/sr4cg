@@ -1,0 +1,164 @@
+<Data>
+    <Spells type="array">
+        <Spell>
+            <Name>Acid Stream</Name>
+            <SpellType>Physical</SpellType>
+            <Range>LoS</Range>
+            <Target>Single</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>3</DrainModifier>
+            <Type>Indirect Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Toxic Wave</Name>
+            <SpellType>Physical</SpellType>
+            <Range>LoS</Range>
+            <Target>Area</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>5</DrainModifier>
+            <Type>Indirect Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Punch</Name>
+            <SpellType>Physical</SpellType>
+            <Range>Touch</Range>
+            <Target>Single</Target>
+            <Damage>Stun</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>-2</DrainModifier>
+            <Type>Indirect Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Death Touch</Name>
+            <SpellType>Mana</SpellType>
+            <Range>Touch</Range>
+            <Target>Single</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>-2</DrainModifier>
+            <Type>Direct Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Manabolt</Name>
+            <SpellType>Mana</SpellType>
+            <Range>LoS</Range>
+            <Target>Single</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>0</DrainModifier>
+            <Type>Direct Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Manaball</Name>
+            <SpellType>Mana</SpellType>
+            <Range>LoS</Range>
+            <Target>Area</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>2</DrainModifier>
+            <Type>Direct Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Flamethrower</Name>
+            <SpellType>Physical</SpellType>
+            <Range>LoS</Range>
+            <Target>Single</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>3</DrainModifier>
+            <Type>Indirect Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Fireball</Name>
+            <SpellType>Physical</SpellType>
+            <Range>LoS</Range>
+            <Target>Area</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>5</DrainModifier>
+            <Type>Indirect Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Lightning Bolt</Name>
+            <SpellType>Physical</SpellType>
+            <Range>LoS</Range>
+            <Target>Single</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>3</DrainModifier>
+            <Type>Indirect Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Ball Lightning</Name>
+            <SpellType>Physical</SpellType>
+            <Range>LoS</Range>
+            <Target>Area</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>5</DrainModifier>
+            <Type>Indirect Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Shatter</Name>
+            <SpellType>Physical</SpellType>
+            <Range>Touch</Range>
+            <Target>Single</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>-1</DrainModifier>
+            <Type>Direct Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Powerbolt</Name>
+            <SpellType>Physical</SpellType>
+            <Range>LoS</Range>
+            <Target>Single</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>1</DrainModifier>
+            <Type>Direct Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Powerball</Name>
+            <SpellType>Physical</SpellType>
+            <Range>LoS</Range>
+            <Target>Area</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>3</DrainModifier>
+            <Type>Direct Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Knockout</Name>
+            <SpellType>Physical</SpellType>
+            <Range>Touch</Range>
+            <Target>Single</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>-3</DrainModifier>
+            <Type>Direct Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Stunbolt</Name>
+            <SpellType>Physical</SpellType>
+            <Range>Touch</Range>
+            <Target>LoS</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>-1</DrainModifier>
+            <Type>Direct Combat</Type>
+        </Spell>
+        <Spell>
+            <Name>Stunball</Name>
+            <SpellType>Physical</SpellType>
+            <Range>LoS</Range>
+            <Target>Area</Target>
+            <Damage>Physical</Damage>
+            <Duration>Instant</Duration>
+            <DrainModifier>1</DrainModifier>
+            <Type>Direct Combat</Type>
+        </Spell>
+    </Spells>
+</Data>

@@ -1,0 +1,515 @@
+<Data>
+	<Skills type="array">
+		<Skill>
+			<Name>Archery</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Combat Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Automatics</Name>
+			<Ability>Agility</Ability>
+			<ID>2</ID>
+			<Default>Yes</Default>
+			<Type>Combat Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Blades</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Combat Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Clubs</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Combat Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Dodge</Name>
+			<Ability>Reaction</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Combat Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Exotic Melee Weapon</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Combat Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Exotic Ranged Weapon</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Combat Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Heavy Weapons</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Combat Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Longarms</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Combat Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Pistols</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Combat Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Throwing Weapons</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Combat Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Unarmed Combat</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Combat Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Arcana</Name>
+			<Ability>Magic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Magical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Assensing</Name>
+			<Ability>Magic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Magical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Astral Combat</Name>
+			<Ability>Magic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Magical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Banishing</Name>
+			<Ability>Magic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Magical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Binding</Name>
+			<Ability>Magic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Magical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Counterspelling</Name>
+			<Ability>Magic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Magical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Enchanting</Name>
+			<Ability>Magic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Magical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Ritual Spellcasting</Name>
+			<Ability>Magic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Magical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Spellcasting</Name>
+			<Ability>Magic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Magical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Summoning</Name>
+			<Ability>Magic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Magical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Climbing</Name>
+			<Ability>Strength</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Disguise</Name>
+			<Ability>Intuition</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Diving</Name>
+			<Ability>Body</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Escape Artist</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Gymnastics</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Infiltration</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Navigation</Name>
+			<Ability>Intuition</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Palming</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Parachuting</Name>
+			<Ability>Body</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Perception</Name>
+			<Ability>Intuition</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Running</Name>
+			<Ability>Strength</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Shadowing</Name>
+			<Ability>Intuition</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Survival</Name>
+			<Ability>Willpower</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Swimming</Name>
+			<Ability>Strength</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Tracking</Name>
+			<Ability>Intuition</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Physical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Compiling</Name>
+			<Ability>Resonance</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Resonance Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Decompiling</Name>
+			<Ability>Resonance</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Resonance Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Registering</Name>
+			<Ability>Resonance</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Resonance Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Con</Name>
+			<Ability>Charisma</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Social Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Etiquette</Name>
+			<Ability>Charisma</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Social Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Instruction</Name>
+			<Ability>Charisma</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Social Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Intimidation</Name>
+			<Ability>Charisma</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Social Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Leadership</Name>
+			<Ability>Charisma</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Social Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Negotiation</Name>
+			<Ability>Charisma</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Social Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Aeronautics Mechanic</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Armorer</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Artisan</Name>
+			<Ability>Intuition</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Automotive Mechanic</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Chemistry</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Computer</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Cybercombat</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Cybertechnology</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Data Search</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Demolitions</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Electronic Warfare</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>First Aid</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Forgery</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Hacking</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Hardware</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Industrial Mechanic</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Locksmith</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Medicine</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Nautical Mechanic</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Software</Name>
+			<Ability>Logic</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Technical Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Gunnery</Name>
+			<Ability>Agility</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Vehicle Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Pilot Aerospace</Name>
+			<Ability>Reaction</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Vehicle Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Pilot Aircraft</Name>
+			<Ability>Reaction</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Vehicle Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Pilot Anthroform</Name>
+			<Ability>Reaction</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Vehicle Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Pilot Exotic Vehicle</Name>
+			<Ability>Reaction</Ability>
+			<ID>1</ID>
+			<Default>No</Default>
+			<Type>Vehicle Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Pilot Ground Craft</Name>
+			<Ability>Reaction</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Vehicle Active</Type>
+		</Skill>
+		<Skill>
+			<Name>Pilot Watercraft</Name>
+			<Ability>Reaction</Ability>
+			<ID>1</ID>
+			<Default>Yes</Default>
+			<Type>Vehicle Active</Type>
+		</Skill>
+	</Skills>
+</Data>

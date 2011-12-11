@@ -1,0 +1,1798 @@
+<Data>
+    <Vehicles type="array">
+        <Vehicle>
+            <Name>Dodge Scoot</Name>
+            <Pilot>1</Pilot>
+            <Sensors>1</Sensors>
+            <Body>4</Body>
+            <Armour>2</Armour>
+            <Handling>1</Handling>
+            <Speed>60</Speed>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Availability>-</Availability>
+            <Cost>3000</Cost>
+            <Type>Bike</Type>
+            <Subtype>Scooter</Subtype>
+        </Vehicle>
+        <Vehicle>
+            <Name>Harley-Davidson Scorpion</Name>
+            <Type>Bike</Type>
+            <Subtype>Chopper</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>120</Speed>
+            <Pilot>2</Pilot>
+            <Body>8</Body>
+            <Armour>4</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>12000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Yamaha Growler</Name>
+            <Type>Bike</Type>
+            <Subtype>Off-Road Bike</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>40</AccelerationRun>
+            <Speed>150</Speed>
+            <Pilot>1</Pilot>
+            <Body>6</Body>
+            <Armour>6</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>5500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Suzuki Mirage</Name>
+            <Type>Bike</Type>
+            <Subtype>Racing Bike</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>20</AccelerationWalk>
+            <AccelerationRun>50</AccelerationRun>
+            <Speed>200</Speed>
+            <Pilot>1</Pilot>
+            <Body>6</Body>
+            <Armour>4</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>6500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Eurocar Westwind 3K</Name>
+            <Type>Car</Type>
+            <Subtype>Sports Car</Subtype>
+            <Handling>3</Handling>
+            <AccelerationWalk>20</AccelerationWalk>
+            <AccelerationRun>60</AccelerationRun>
+            <Speed>240</Speed>
+            <Pilot>3</Pilot>
+            <Body>10</Body>
+            <Armour>6</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>85000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Ford Spiral 115Ti</Name>
+            <Type>Car</Type>
+            <Subtype>Low-Cost Sports Car</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>55</AccelerationRun>
+            <Speed>180</Speed>
+            <Pilot>2</Pilot>
+            <Body>10</Body>
+            <Armour>6</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>45000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Honda Spirit</Name>
+            <Type>Car</Type>
+            <Subtype>Subcompact</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>80</Speed>
+            <Pilot>1</Pilot>
+            <Body>8</Body>
+            <Armour>6</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>10000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Mercury Comet</Name>
+            <Type>Car</Type>
+            <Subtype>Sedan</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>110</Speed>
+            <Pilot>2</Pilot>
+            <Body>10</Body>
+            <Armour>6</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>14000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Mitsubishi Nightsky</Name>
+            <Type>Car</Type>
+            <Subtype>Limousine</Subtype>
+            <Handling>-2</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>25</AccelerationRun>
+            <Speed>100</Speed>
+            <Pilot>3</Pilot>
+            <Body>12</Body>
+            <Armour>10</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>120000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Toyota Gopher</Name>
+            <Type>Car</Type>
+            <Subtype>Heavy-Duty Pickup</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>100</Speed>
+            <Pilot>1</Pilot>
+            <Body>14</Body>
+            <Armour>8</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>35000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>GMC Bulldog Step-Van</Name>
+            <Type>Truck</Type>
+            <Subtype>Van</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>90</Speed>
+            <Pilot>2</Pilot>
+            <Body>16</Body>
+            <Armour>8</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>35000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>GMC Everglades</Name>
+            <Type>Hovercraft</Type>
+            <Subtype>Hovercraft</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>120</Speed>
+            <Pilot>2</Pilot>
+            <Body>14</Body>
+            <Armour>6</Armour>
+            <Sensors>1</Sensors>
+            <Availability>4</Availability>
+            <Cost>25500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Chrysler-Nissan Patrol-1</Name>
+            <Type>Military And Security Vehicles</Type>
+            <Subtype>Patrol Car</Subtype>
+            <Handling>3</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>45</AccelerationRun>
+            <Speed>180</Speed>
+            <Pilot>3</Pilot>
+            <Body>10</Body>
+            <Armour>10</Armour>
+            <Sensors>1</Sensors>
+            <Availability>12R</Availability>
+            <Cost>22700</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>GMC Beachcraft</Name>
+            <Type>Military And Security Vehicles</Type>
+            <Subtype>Patrol Hovercraft</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>40</AccelerationRun>
+            <Speed>160</Speed>
+            <Pilot>2</Pilot>
+            <Body>12</Body>
+            <Armour>16</Armour>
+            <Sensors>2</Sensors>
+            <Availability>16R</Availability>
+            <Cost>63000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Ares Citymaster</Name>
+            <Type>Military And Security Vehicles</Type>
+            <Subtype>Riot Control Vehicle</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>120</Speed>
+            <Pilot>3</Pilot>
+            <Body>16</Body>
+            <Armour>20</Armour>
+            <Sensors>3</Sensors>
+            <Availability>20R</Availability>
+            <Cost>51200</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Morgan Cutlass</Name>
+            <Type>Boats And Subs</Type>
+            <Subtype>Patrol Boat</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>60</Speed>
+            <Pilot>3</Pilot>
+            <Body>16</Body>
+            <Armour>10</Armour>
+            <Sensors>3</Sensors>
+            <Availability>12R</Availability>
+            <Cost>90000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>MT Sea Nymph</Name>
+            <Type>Boats And Subs</Type>
+            <Subtype>Yacht</Subtype>
+            <Handling>-3</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>45</Speed>
+            <Pilot>2</Pilot>
+            <Body>18</Body>
+            <Armour>6</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>170000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>SC Otter</Name>
+            <Type>Boats And Subs</Type>
+            <Subtype>Sport Cruiser</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>45</Speed>
+            <Pilot>1</Pilot>
+            <Body>12</Body>
+            <Armour>6</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>12500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Vulkan Electronaut</Name>
+            <Type>Boats And Subs</Type>
+            <Subtype>Mini-Sub</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>30</Speed>
+            <Pilot>2</Pilot>
+            <Body>12</Body>
+            <Armour>10</Armour>
+            <Sensors>2</Sensors>
+            <Availability>10</Availability>
+            <Cost>158000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Cessna C750</Name>
+            <Type>Winged Planes</Type>
+            <Subtype>Twin-Prop Airplane</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>20</AccelerationWalk>
+            <AccelerationRun>90</AccelerationRun>
+            <Speed>340</Speed>
+            <Pilot>2</Pilot>
+            <Body>18</Body>
+            <Armour>4</Armour>
+            <Sensors>-</Sensors>
+            <Availability>8</Availability>
+            <Cost>164000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Ares Dragon</Name>
+            <Type>Rotorcraft</Type>
+            <Subtype>Cargo Helicoptor</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>40</AccelerationRun>
+            <Speed>260</Speed>
+            <Pilot>3</Pilot>
+            <Body>22</Body>
+            <Armour>8</Armour>
+            <Sensors>-</Sensors>
+            <Availability>12</Availability>
+            <Cost>495000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Hughes Stallion</Name>
+            <Type>Rotorcraft</Type>
+            <Subtype>Utility Helicoptor</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>50</AccelerationRun>
+            <Speed>190</Speed>
+            <Pilot>3</Pilot>
+            <Body>14</Body>
+            <Armour>8</Armour>
+            <Sensors>-</Sensors>
+            <Availability>12</Availability>
+            <Cost>225000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Northrup Wasp</Name>
+            <Type>Rotorcraft</Type>
+            <Subtype>Autogyro</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>130</Speed>
+            <Pilot>2</Pilot>
+            <Body>10</Body>
+            <Armour>6</Armour>
+            <Sensors>-</Sensors>
+            <Availability>12R</Availability>
+            <Cost>106000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>GMC banshee</Name>
+            <Type>VTOL/VSTOL</Type>
+            <Subtype>Thunderbird</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>50</AccelerationWalk>
+            <AccelerationRun>250</AccelerationRun>
+            <Speed>1000</Speed>
+            <Pilot>2</Pilot>
+            <Body>20</Body>
+            <Armour>18</Armour>
+            <Sensors>-</Sensors>
+            <Availability>24F</Availability>
+            <Cost>2350000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Fed-Boeing Commuter</Name>
+            <Type>VTOL/VSTOL</Type>
+            <Subtype>Tilt-Wing Airplane</Subtype>
+            <Handling>-2</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>120</Speed>
+            <Pilot>3</Pilot>
+            <Body>16</Body>
+            <Armour>8</Armour>
+            <Sensors>-</Sensors>
+            <Availability>16R</Availability>
+            <Cost>320000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Shiawase Kanmushi</Name>
+            <Type>Drones</Type>
+            <Subtype>Microdrone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>2</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>10</Speed>
+            <Pilot>3</Pilot>
+            <Body>0</Body>
+            <Armour>0</Armour>
+            <Sensors>1</Sensors>
+            <Availability>8</Availability>
+            <Cost>1000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>S-B Microskimmer</Name>
+            <Type>Drones</Type>
+            <Subtype>Microdrone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>2</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>10</Speed>
+            <Pilot>3</Pilot>
+            <Body>0</Body>
+            <Armour>0</Armour>
+            <Sensors>1</Sensors>
+            <Availability>8</Availability>
+            <Cost>1000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Lone Star iBall</Name>
+            <Type>Drones</Type>
+            <Subtype>Minidrone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>3</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>15</Speed>
+            <Pilot>3</Pilot>
+            <Body>1</Body>
+            <Armour>0</Armour>
+            <Sensors>2</Sensors>
+            <Availability>6</Availability>
+            <Cost>1500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>MCT Fly-Spy</Name>
+            <Type>Drones</Type>
+            <Subtype>Minidrone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>3</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>15</Speed>
+            <Pilot>3</Pilot>
+            <Body>1</Body>
+            <Armour>0</Armour>
+            <Sensors>2</Sensors>
+            <Availability>6</Availability>
+            <Cost>2000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Aztechnology Crawler</Name>
+            <Type>Drones</Type>
+            <Subtype>Small</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>50</Speed>
+            <Pilot>3</Pilot>
+            <Body>2</Body>
+            <Armour>0</Armour>
+            <Sensors>2</Sensors>
+            <Availability>4</Availability>
+            <Cost>1700</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Lockheed Optic-X</Name>
+            <Type>Drones</Type>
+            <Subtype>small</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>75</Speed>
+            <Pilot>3</Pilot>
+            <Body>2</Body>
+            <Armour>0</Armour>
+            <Sensors>2</Sensors>
+            <Availability>6</Availability>
+            <Cost>1700</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>GM-Nissan Doberman</Name>
+            <Type>Drones</Type>
+            <Subtype>Medium</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>25</AccelerationRun>
+            <Speed>75</Speed>
+            <Pilot>3</Pilot>
+            <Body>3</Body>
+            <Armour>6</Armour>
+            <Sensors>3</Sensors>
+            <Availability>6</Availability>
+            <Cost>3000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>MCT-Nissan Roto-Drone</Name>
+            <Type>Drones</Type>
+            <Subtype>Medium</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>25</AccelerationRun>
+            <Speed>100</Speed>
+            <Pilot>3</Pilot>
+            <Body>3</Body>
+            <Armour>2</Armour>
+            <Sensors>3</Sensors>
+            <Availability>6</Availability>
+            <Cost>2000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Renraku Stormcloud</Name>
+            <Type>Drones</Type>
+            <Subtype>Medium</Subtype>
+            <Handling>-3</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>25</Speed>
+            <Pilot>3</Pilot>
+            <Body>3</Body>
+            <Armour>2</Armour>
+            <Sensors>3</Sensors>
+            <Availability>6</Availability>
+            <Cost>2600</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>C-D Dalmatian</Name>
+            <Type>Drones</Type>
+            <Subtype>Large</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>40</AccelerationRun>
+            <Speed>120</Speed>
+            <Pilot>3</Pilot>
+            <Body>4</Body>
+            <Armour>2</Armour>
+            <Sensors>3</Sensors>
+            <Availability>9</Availability>
+            <Cost>2200</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>CrashCart AutoDoc</Name>
+            <Type>Drones</Type>
+            <Subtype>Large</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>30</Speed>
+            <Pilot>3</Pilot>
+            <Body>4</Body>
+            <Armour>2</Armour>
+            <Sensors>1</Sensors>
+            <Availability>8R</Availability>
+            <Cost>4000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Steel Lynx</Name>
+            <Type>Drones</Type>
+            <Subtype>Large</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>40</AccelerationRun>
+            <Speed>120</Speed>
+            <Pilot>3</Pilot>
+            <Body>4</Body>
+            <Armour>9</Armour>
+            <Sensors>3</Sensors>
+            <Availability>12R</Availability>
+            <Cost>5000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Micro-Tapper Bug</Name>
+            <Subtype>Microdrone</Subtype>
+            <Type>Drones</Type>
+            <Handling>1</Handling>
+            <AccelerationWalk>2</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>10</Speed>
+            <Pilot>3</Pilot>
+            <Body>0</Body>
+            <Armour>0</Armour>
+            <Sensors>1</Sensors>
+            <Availability>8</Availability>
+            <Cost>1000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Repeater Drone</Name>
+            <Type>Drones</Type>
+            <Subtype>Mini Drone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>2</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>10</Speed>
+            <Pilot>3</Pilot>
+            <Body>1</Body>
+            <Armour>0</Armour>
+            <Sensors>2</Sensors>
+            <Availability>6</Availability>
+            <Cost>3000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Roving Hub</Name>
+            <Type>Drones</Type>
+            <Subtype>Medium Drone</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>25</AccelerationRun>
+            <Speed>75</Speed>
+            <Pilot>3</Pilot>
+            <Body>3</Body>
+            <Armour>2</Armour>
+            <Sensors>3</Sensors>
+            <Availability>6</Availability>
+            <Cost>13000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Daihatsu-Caterpiller Horseman</Name>
+            <Type>Personal Mobility Vehicles</Type>
+            <Subtype>PMV</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>80</Speed>
+            <Pilot>1</Pilot>
+            <Body>4</Body>
+            <Armour>4</Armour>
+            <Sensors>1</Sensors>
+            <Availability>4</Availability>
+            <Cost>12000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Ares-Segway Terrier</Name>
+            <Type>Personal Mobility Vehicles</Type>
+            <Subtype>PMV</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>40</Speed>
+            <Pilot>2</Pilot>
+            <Body>2</Body>
+            <Armour>1</Armour>
+            <Sensors>2</Sensors>
+            <Availability>-</Availability>
+            <Cost>4500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Indian Pathfinder</Name>
+            <Type>Bike</Type>
+            <Subtype>Racing Bike</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>25</AccelerationWalk>
+            <AccelerationRun>40</AccelerationRun>
+            <Speed>160</Speed>
+            <Pilot>1</Pilot>
+            <Body>6</Body>
+            <Armour>6</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>6000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Thundercloud Contrail</Name>
+            <Type>Bike</Type>
+            <Subtype>Racing Bike</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>20</AccelerationWalk>
+            <AccelerationRun>40</AccelerationRun>
+            <Speed>180</Speed>
+            <Pilot>1</Pilot>
+            <Body>6</Body>
+            <Armour>4</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>5000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Entertainment Systems Cyclops</Name>
+            <Type>Bike</Type>
+            <Subtype>Monocycle</Subtype>
+            <Handling>3</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>25</AccelerationRun>
+            <Speed>100</Speed>
+            <Pilot>1</Pilot>
+            <Body>4</Body>
+            <Armour>2</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>6500</Cost>
+        </Vehicle>
+        <Vehicle>            <Name>Horizon-Doble Revolution</Name>
+            <Type>Bike</Type>
+            <Subtype>Enclosed Monocycle</Subtype>
+            <Handling>3</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>25</AccelerationRun>
+            <Speed>120</Speed>
+            <Pilot>1</Pilot>
+            <Body>6</Body>
+            <Armour>6</Armour>
+            <Sensors>2</Sensors>
+            <Availability>4</Availability>
+            <Cost>8000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Evo Falcon</Name>
+            <Type>Bike</Type>
+            <Subtype>Off-Road Bike</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>80</Speed>
+            <Pilot>1</Pilot>
+            <Body>7</Body>
+            <Armour>7</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>10000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Chrysler-Nissan Jackrabbit</Name>
+            <Type>Car</Type>
+            <Subtype>Subcompact</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>35</AccelerationRun>
+            <Speed>120</Speed>
+            <Pilot>1</Pilot>
+            <Body>8</Body>
+            <Armour>2</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>10500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Hyundai Shin-Hyung</Name>
+            <Type>Car</Type>
+            <Subtype>Sedan</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>20</AccelerationWalk>
+            <AccelerationRun>45</AccelerationRun>
+            <Speed>160</Speed>
+            <Pilot>1</Pilot>
+            <Body>10</Body>
+            <Armour>5</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>17000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Rover Model 2068</Name>
+            <Type>Car</Type>
+            <Subtype>SUV</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>20</AccelerationWalk>
+            <AccelerationRun>35</AccelerationRun>
+            <Speed>140</Speed>
+            <Pilot>2</Pilot>
+            <Body>13</Body>
+            <Armour>10</Armour>
+            <Sensors>2</Sensors>
+            <Availability>6</Availability>
+            <Cost>25000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Thundercloud Morgan</Name>
+            <Type>Car</Type>
+            <Subtype>ATV</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>120</Speed>
+            <Pilot>1</Pilot>
+            <Body>8</Body>
+            <Armour>4</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>7500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Ares Roadmaster</Name>
+            <Type>Truck</Type>
+            <Subtype>Transport</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>120</Speed>
+            <Pilot>2</Pilot>
+            <Body>16</Body>
+            <Armour>16</Armour>
+            <Sensors>2</Sensors>
+            <Availability>4</Availability>
+            <Cost>48000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>GAZ P-179</Name>
+            <Type>Truck</Type>
+            <Subtype>Pickup Truck</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>90</Speed>
+            <Pilot>1</Pilot>
+            <Body>14</Body>
+            <Armour>6</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>12000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Tata Hotspur</Name>
+            <Type>Truck</Type>
+            <Subtype>Off-Road Racing Truck</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>20</AccelerationWalk>
+            <AccelerationRun>50</AccelerationRun>
+            <Speed>200</Speed>
+            <Pilot>1</Pilot>
+            <Body>16</Body>
+            <Armour>10</Armour>
+            <Sensors>2</Sensors>
+            <Availability>8</Availability>
+            <Cost>60000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Ford-Canada Buffalo</Name>
+            <Type>Truck</Type>
+            <Subtype>RV</Subtype>
+            <Handling>-2</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>80</Speed>
+            <Pilot>2</Pilot>
+            <Body>16</Body>
+            <Armour>10</Armour>
+            <Sensors>2</Sensors>
+            <Availability>-</Availability>
+            <Cost>55000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>GMC Hermes Van</Name>
+            <Type>Truck</Type>
+            <Subtype>Delivery Van</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>100</Speed>
+            <Pilot>2</Pilot>
+            <Body>17</Body>
+            <Armour>6</Armour>
+            <Sensors>2</Sensors>
+            <Availability>8</Availability>
+            <Cost>45000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Conestoga Vista</Name>
+            <Type>Truck</Type>
+            <Subtype>Bus</Subtype>
+            <Handling>-3</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>25</AccelerationRun>
+            <Speed>90</Speed>
+            <Pilot>1</Pilot>
+            <Body>20</Body>
+            <Armour>4</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>25000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Nordkapp Zugmaschine</Name>
+            <Type>Truck</Type>
+            <Subtype>Tractor Trailer</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>110</Speed>
+            <Pilot>2</Pilot>
+            <Body>18</Body>
+            <Armour>8</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>90000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Nordkapp Zugmaschine Trailer</Name>
+            <Type>Truck</Type>
+            <Subtype>Tractor Trailer</Subtype>
+            <Handling>-3</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>90</Speed>
+            <Pilot>2</Pilot>
+            <Body>24</Body>
+            <Armour>8</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>20000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Mostran KVP-27T</Name>
+            <Type>Hovercraft</Type>
+            <Subtype>Hovercraft</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>90</Speed>
+            <Pilot>1</Pilot>
+            <Body>8</Body>
+            <Armour>8</Armour>
+            <Sensors>1</Sensors>
+            <Availability>4</Availability>
+            <Cost>40000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>SeaDooBolt</Name>
+            <Type>Watercraft</Type>
+            <Subtype>Water Scooter</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>25</AccelerationRun>
+            <Speed>45</Speed>
+            <Pilot>2</Pilot>
+            <Body>5</Body>
+            <Armour>4</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>6000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Blohm And Voss Spitzenreiter</Name>
+            <Type>Watercraft</Type>
+            <Subtype>Utility Watercraft</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>40</Speed>
+            <Pilot>1</Pilot>
+            <Body>16</Body>
+            <Armour>2</Armour>
+            <Sensors>2</Sensors>
+            <Availability>-</Availability>
+            <Cost>22000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Zemlya-Poltava Crest</Name>
+            <Type>Watercraft</Type>
+            <Subtype>Speedboat</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>80</Speed>
+            <Pilot>1</Pilot>
+            <Body>12</Body>
+            <Armour>6</Armour>
+            <Sensors>1</Sensors>
+            <Availability>8</Availability>
+            <Cost>35000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Colorado Craft Sylph</Name>
+            <Type>Watercraft</Type>
+            <Subtype>Hydrofoil</Subtype>
+            <Handling>3</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>40</AccelerationRun>
+            <Speed>100</Speed>
+            <Pilot>2</Pilot>
+            <Body>8</Body>
+            <Armour>4</Armour>
+            <Sensors>1</Sensors>
+            <Availability>4</Availability>
+            <Cost>40000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Harland And Wolff Classique III</Name>
+            <Type>Watercraft</Type>
+            <Subtype>Yacht</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>35</Speed>
+            <Pilot>2</Pilot>
+            <Body>24</Body>
+            <Armour>8</Armour>
+            <Sensors>2</Sensors>
+            <Availability>12</Availability>
+            <Cost>235000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Proteus Lamprey</Name>
+            <Type>Watercraft</Type>
+            <Subtype>Sea Sled</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>35</Speed>
+            <Pilot>1</Pilot>
+            <Body>6</Body>
+            <Armour>4</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>14000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Krasnay Sormova Partisan</Name>
+            <Type>Watercraft</Type>
+            <Subtype>Sentry Submarine</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>40</Speed>
+            <Pilot>2</Pilot>
+            <Body>20</Body>
+            <Armour>15</Armour>
+            <Sensors>2</Sensors>
+            <Availability>16F</Availability>
+            <Cost>650000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Lockheed Sparrow</Name>
+            <Type>Aircraft</Type>
+            <Subtype>FPMV</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>40</AccelerationRun>
+            <Speed>90</Speed>
+            <Pilot>3</Pilot>
+            <Body>4</Body>
+            <Armour>2</Armour>
+            <Sensors>1</Sensors>
+            <Availability>12R</Availability>
+            <Cost>19500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Artemis Industries Dawnglider</Name>
+            <Type>Aircraft</Type>
+            <Subtype>Glider</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>60</Speed>
+            <Pilot>2</Pilot>
+            <Body>6</Body>
+            <Armour>2</Armour>
+            <Sensors>1</Sensors>
+            <Availability>16R</Availability>
+            <Cost>55000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Moonlight Aerospace Phoenix</Name>
+            <Type>Aircraft</Type>
+            <Subtype>Glider</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>80</Speed>
+            <Pilot>1</Pilot>
+            <Body>6</Body>
+            <Armour>1</Armour>
+            <Sensors>1</Sensors>
+            <Availability>6</Availability>
+            <Cost>16000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>MiG-67</Name>
+            <Type>LAV</Type>
+            <Subtype>LAV</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>50</AccelerationWalk>
+            <AccelerationRun>200</AccelerationRun>
+            <Speed>800</Speed>
+            <Pilot>1</Pilot>
+            <Body>18</Body>
+            <Armour>10</Armour>
+            <Sensors>2</Sensors>
+            <Availability>20F</Availability>
+            <Cost>950000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Cascade Skraacha</Name>
+            <Type>LAV</Type>
+            <Subtype>LAV</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>40</AccelerationWalk>
+            <AccelerationRun>160</AccelerationRun>
+            <Speed>600</Speed>
+            <Pilot>1</Pilot>
+            <Body>16</Body>
+            <Armour>14</Armour>
+            <Sensors>2</Sensors>
+            <Availability>12F</Availability>
+            <Cost>475000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Hawker-Ridley HS-950 Skytrain</Name>
+            <Type>LAV</Type>
+            <Subtype>Tilt-Wing Aircraft</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>30</AccelerationWalk>
+            <AccelerationRun>120</AccelerationRun>
+            <Speed>550</Speed>
+            <Pilot>2</Pilot>
+            <Body>30</Body>
+            <Armour>4</Armour>
+            <Sensors>2</Sensors>
+            <Availability>16</Availability>
+            <Cost>1500000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Piper Brat</Name>
+            <Type>LAV</Type>
+            <Subtype>Very Light Jet</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>30</AccelerationWalk>
+            <AccelerationRun>150</AccelerationRun>
+            <Speed>650</Speed>
+            <Pilot>3</Pilot>
+            <Body>18</Body>
+            <Armour>6</Armour>
+            <Sensors>2</Sensors>
+            <Availability>16</Availability>
+            <Cost>1000000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Gulfstream Luxe V</Name>
+            <Type>LAV</Type>
+            <Subtype>Executive Jet</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>40</AccelerationWalk>
+            <AccelerationRun>150</AccelerationRun>
+            <Speed>800</Speed>
+            <Pilot>3</Pilot>
+            <Body>14</Body>
+            <Armour>10</Armour>
+            <Sensors>3</Sensors>
+            <Availability>18</Availability>
+            <Cost>1200000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Renault-Fiat Fokker Tundra-9</Name>
+            <Type>LAV</Type>
+            <Subtype>Amphibious Jet</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>30</AccelerationWalk>
+            <AccelerationRun>120</AccelerationRun>
+            <Speed>500</Speed>
+            <Pilot>2</Pilot>
+            <Body>18</Body>
+            <Armour>8</Armour>
+            <Sensors>2</Sensors>
+            <Availability>12</Availability>
+            <Cost>325000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Mitsubishi Karura</Name>
+            <Type>Rotorcraft</Type>
+            <Subtype>Autogyro</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>100</Speed>
+            <Pilot>2</Pilot>
+            <Body>12</Body>
+            <Armour>6</Armour>
+            <Sensors>2</Sensors>
+            <Availability>14</Availability>
+            <Cost>200000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Hughes Aerospace Emblem</Name>
+            <Type>Shuttle Helicoptor</Type>
+            <Subtype>Shuttle Helicoptor</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>50</AccelerationRun>
+            <Speed>300</Speed>
+            <Pilot>2</Pilot>
+            <Body>18</Body>
+            <Armour>6</Armour>
+            <Sensors>2</Sensors>
+            <Availability>14</Availability>
+            <Cost>640000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Luftschiffbau LZ-2065</Name>
+            <Type>Zeppelin</Type>
+            <Subtype>Zeppelin</Subtype>
+            <Handling>-3</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>30</Speed>
+            <Pilot>1</Pilot>
+            <Body>36</Body>
+            <Armour>2</Armour>
+            <Sensors>2</Sensors>
+            <Availability>16</Availability>
+            <Cost>800000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Dodge Guardian</Name>
+            <Type>Military, Security And Medical Craft</Type>
+            <Subtype>Police Motorcycle</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>20</AccelerationWalk>
+            <AccelerationRun>35</AccelerationRun>
+            <Speed>100</Speed>
+            <Pilot>2</Pilot>
+            <Body>8</Body>
+            <Armour>10</Armour>
+            <Sensors>2</Sensors>
+            <Availability>8R</Availability>
+            <Cost>14000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>General Product COP</Name>
+            <Type>Military, Security And Medical Craft</Type>
+            <Subtype>Police SUV</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>35</AccelerationRun>
+            <Speed>120</Speed>
+            <Pilot>1</Pilot>
+            <Body>12</Body>
+            <Armour>12</Armour>
+            <Sensors>3</Sensors>
+            <Availability>6R</Availability>
+            <Cost>18000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Lone Star Modified Honda 3240 Turbo</Name>
+            <Type>Military, Security And Medical Craft</Type>
+            <Subtype>Pursuit Car</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>20</AccelerationWalk>
+            <AccelerationRun>50</AccelerationRun>
+            <Speed>220</Speed>
+            <Pilot>2</Pilot>
+            <Body>9</Body>
+            <Armour>6</Armour>
+            <Sensors>1</Sensors>
+            <Availability>14R</Availability>
+            <Cost>107500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>DocWagon SRT</Name>
+            <Type>Military, Security and Medical Craft</Type>
+            <Subtype>Ambulance</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>20</AccelerationWalk>
+            <AccelerationRun>40</AccelerationRun>
+            <Speed>150</Speed>
+            <Pilot>2</Pilot>
+            <Body>14</Body>
+            <Armour>10</Armour>
+            <Sensors>2</Sensors>
+            <Availability>12R</Availability>
+            <Cost>65000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Lone Star Black Maria USPTV</Name>
+            <Type>Military, Security And Medical Craft</Type>
+            <Subtype>Prisoner Transport</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>100</Speed>
+            <Pilot>1</Pilot>
+            <Body>15</Body>
+            <Armour>15</Armour>
+            <Sensors>1</Sensors>
+            <Availability>18R</Availability>
+            <Cost>55000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Surfstar Marine Seacop</Name>
+            <Type>Military, Security And Medical Craft</Type>
+            <Subtype>Harbour Patrol</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>60</Speed>
+            <Pilot>1</Pilot>
+            <Body>14</Body>
+            <Armour>14</Armour>
+            <Sensors>2</Sensors>
+            <Availability>12R</Availability>
+            <Cost>24000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Celebrian Striker</Name>
+            <Type>Military, Security And Medical Craft</Type>
+            <Subtype>Patrol Corvette</Subtype>
+            <Handling>-2</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>50</Speed>
+            <Pilot>1</Pilot>
+            <Body>30</Body>
+            <Armour>20</Armour>
+            <Sensors>3</Sensors>
+            <Availability>26F</Availability>
+            <Cost>2200000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>USS Boston Class</Name>
+            <Type>Military, Security And Medical Craft</Type>
+            <Subtype>Patrol Submarine</Subtype>
+            <Handling>-2</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>70</Speed>
+            <Pilot>2</Pilot>
+            <Body>30</Body>
+            <Armour>20</Armour>
+            <Sensors>3</Sensors>
+            <Availability>30F</Availability>
+            <Cost>29000000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>DocWagon CRT Helicoptor</Name>
+            <Type>Military, Security And Medical Craft</Type>
+            <Subtype>Medical Helicoptor</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>25</AccelerationWalk>
+            <AccelerationRun>60</AccelerationRun>
+            <Speed>340</Speed>
+            <Pilot>3</Pilot>
+            <Body>20</Body>
+            <Armour>10</Armour>
+            <Sensors>2</Sensors>
+            <Availability>20R</Availability>
+            <Cost>1310000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Northup Yellowjacket</Name>
+            <Type>Military, Security And Medical Craft</Type>
+            <Subtype>Military Helicoptor</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>130</Speed>
+            <Pilot>2</Pilot>
+            <Body>10</Body>
+            <Armour>8</Armour>
+            <Sensors>2</Sensors>
+            <Availability>12F</Availability>
+            <Cost>122000</Cost>
+        </Vehicle>
+        <Vehicle>            <Name>Aztechnology Aguilar-GX</Name>
+            <Type>Military, Security And Medical Craft</Type>
+            <Subtype>Attack Helicoptor</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>60</AccelerationRun>
+            <Speed>400</Speed>
+            <Pilot>2</Pilot>
+            <Body>16</Body>
+            <Armour>16</Armour>
+            <Sensors>2</Sensors>
+            <Availability>20F</Availability>
+            <Cost>1800000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Federated-Boeing Eagle-C</Name>
+            <Type>Military, Security And Medical Craft</Type>
+            <Subtype>VSTOL Fighter-Bomber</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>60</AccelerationWalk>
+            <AccelerationRun>240</AccelerationRun>
+            <Speed>1200</Speed>
+            <Pilot>3</Pilot>
+            <Body>20</Body>
+            <Armour>12</Armour>
+            <Sensors>3</Sensors>
+            <Availability>26F</Availability>
+            <Cost>10000000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Stonebrooke Smokecloud</Name>
+            <Type>Drones</Type>
+            <Subtype>Wheeled Microdrone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>2</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>10</Speed>
+            <Pilot>3</Pilot>
+            <Body>0</Body>
+            <Armour>0</Armour>
+            <Sensors>2</Sensors>
+            <Availability>14R</Availability>
+            <Cost>1500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Toyota MK-Centipede</Name>
+            <Type>Microdrone</Type>
+            <Subtype>Walker Drone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>2</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>10</Speed>
+            <Pilot>3</Pilot>
+            <Body>0</Body>
+            <Armour>1</Armour>
+            <Sensors>1</Sensors>
+            <Availability>4</Availability>
+            <Cost>1000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Ares Helmdall</Name>
+            <Type>Microdrone</Type>
+            <Subtype>Drone Missile</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>Special</AccelerationWalk>
+            <AccelerationRun>Special</AccelerationRun>
+            <Speed>3000</Speed>
+            <Pilot>3</Pilot>
+            <Body>1</Body>
+            <Armour>1</Armour>
+            <Sensors>2</Sensors>
+            <Availability>14F</Availability>
+            <Cost>1500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Bust-A-Move</Name>
+            <Type>Minidrone</Type>
+            <Subtype>Walker Drone</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>3</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>10</Speed>
+            <Pilot>2</Pilot>
+            <Body>1</Body>
+            <Armour>0</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>350</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Cyberspace Designs Dragonfly</Name>
+            <Type>Minidrone</Type>
+            <Subtype>Aerial Drone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>3</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>30</Speed>
+            <Pilot>3</Pilot>
+            <Body>1</Body>
+            <Armour>1</Armour>
+            <Sensors>2</Sensors>
+            <Availability>12R</Availability>
+            <Cost>2500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Ferret RPD-1X</Name>
+            <Type>Minidrone</Type>
+            <Subtype>Wheeled Drone</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>60</Speed>
+            <Pilot>3</Pilot>
+            <Body>1</Body>
+            <Armour>2</Armour>
+            <Sensors>3</Sensors>
+            <Availability>8</Availability>
+            <Cost>3000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Ares Sentinel "R" Series</Name>
+            <Type>Small Drone</Type>
+            <Subtype>Rail Drone</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>10</AccelerationRun>
+            <Speed>40</Speed>
+            <Pilot>3</Pilot>
+            <Body>2</Body>
+            <Armour>6</Armour>
+            <Sensors>2</Sensors>
+            <Availability>4R</Availability>
+            <Cost>2000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Aztechnology Armadillo</Name>
+            <Type>Small Drone</Type>
+            <Subtype>Aerial Drone</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>50</Speed>
+            <Pilot>3</Pilot>
+            <Body>2</Body>
+            <Armour>6</Armour>
+            <Sensors>3</Sensors>
+            <Availability>12F</Availability>
+            <Cost>20000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Entertainment Systems Falcon</Name>
+            <Type>Small Drone</Type>
+            <Subtype>Aerial Drone</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>70</Speed>
+            <Pilot>3</Pilot>
+            <Body>2</Body>
+            <Armour>2</Armour>
+            <Sensors>1</Sensors>
+            <Availability>16</Availability>
+            <Cost>59000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>GMC Sandal</Name>
+            <Type>Small Drone</Type>
+            <Subtype>Wheeled Drone</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>25</AccelerationRun>
+            <Speed>60</Speed>
+            <Pilot>2</Pilot>
+            <Body>2</Body>
+            <Armour>4</Armour>
+            <Sensors>2</Sensors>
+            <Availability>4</Availability>
+            <Cost>3500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Knight Errant P4</Name>
+            <Type>Small Drone</Type>
+            <Subtype>Wheeled Drone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>20</AccelerationWalk>
+            <AccelerationRun>50</AccelerationRun>
+            <Speed>180</Speed>
+            <Pilot>3</Pilot>
+            <Body>2</Body>
+            <Armour>2</Armour>
+            <Sensors>3</Sensors>
+            <Availability>10R</Availability>
+            <Cost>8000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Modified GMC Chariot</Name>
+            <Type>Small Drone</Type>
+            <Subtype>Disguised Combat Drone</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>25</AccelerationRun>
+            <Speed>40</Speed>
+            <Pilot>3</Pilot>
+            <Body>2</Body>
+            <Armour>2</Armour>
+            <Sensors>2</Sensors>
+            <Availability>8F</Availability>
+            <Cost>4800</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Transys Steed</Name>
+            <Type>Small Drone</Type>
+            <Subtype>Wheeled Personal Mobility Drone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>40</Speed>
+            <Pilot>3</Pilot>
+            <Body>2</Body>
+            <Armour>2</Armour>
+            <Sensors>3</Sensors>
+            <Availability>-</Availability>
+            <Cost>4000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Evo Orderly</Name>
+            <Type>Medium Drone</Type>
+            <Subtype>Walker Drone</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>40</Speed>
+            <Pilot>3</Pilot>
+            <Body>3</Body>
+            <Armour>3</Armour>
+            <Sensors>2</Sensors>
+            <Availability>4</Availability>
+            <Cost>2000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Federated-Boeing Kull</Name>
+            <Type>Medium Drone</Type>
+            <Subtype>Aerial Drone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>30</AccelerationWalk>
+            <AccelerationRun>150</AccelerationRun>
+            <Speed>300</Speed>
+            <Pilot>3</Pilot>
+            <Body>3</Body>
+            <Armour>0</Armour>
+            <Sensors>2</Sensors>
+            <Availability>4</Availability>
+            <Cost>10000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Ford LEBD-1</Name>
+            <Type>Medium Drone</Type>
+            <Subtype>Aerial Drone</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>80</Speed>
+            <Pilot>3</Pilot>
+            <Body>3</Body>
+            <Armour>6</Armour>
+            <Sensors>3</Sensors>
+            <Availability>6R</Availability>
+            <Cost>4500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Mitsuhama Akiyama</Name>
+            <Type>Medium Drone</Type>
+            <Subtype>Walker Drone</Subtype>
+            <Handling>3</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>40</Speed>
+            <Pilot>-</Pilot>
+            <Body>4</Body>
+            <Armour>4</Armour>
+            <Sensors>4</Sensors>
+            <Availability>24R</Availability>
+            <Cost>250000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Mitsuhama Otomo</Name>
+            <Type>Medium Drone</Type>
+            <Subtype>Walker Drone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>30</Speed>
+            <Pilot>-</Pilot>
+            <Body>6</Body>
+            <Armour>0</Armour>
+            <Sensors>3</Sensors>
+            <Availability>24R</Availability>
+            <Cost>150000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Renraku Manservant-3</Name>
+            <Type>Medium Drone</Type>
+            <Subtype>Walker Drone</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>15</Speed>
+            <Pilot>3</Pilot>
+            <Body>3</Body>
+            <Armour>0</Armour>
+            <Sensors>2</Sensors>
+            <Availability>-</Availability>
+            <Cost>2500</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Ares Auxilia Mk3</Name>
+            <Type>Large Drone</Type>
+            <Subtype>Tracked Drone</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>50</Speed>
+            <Pilot>3</Pilot>
+            <Body>4</Body>
+            <Armour>12</Armour>
+            <Sensors>2</Sensors>
+            <Availability>10F</Availability>
+            <Cost>8000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>GTS Tower</Name>
+            <Type>Large Drone</Type>
+            <Subtype>LTA Carrier Drone</Subtype>
+            <Handling>0</Handling>
+            <AccelerationWalk>10</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>120</Speed>
+            <Pilot>3</Pilot>
+            <Body>4</Body>
+            <Armour>2</Armour>
+            <Sensors>3</Sensors>
+            <Availability>12</Availability>
+            <Cost>25000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Lockheed Vulcan</Name>
+            <Type>Large Drone</Type>
+            <Subtype>Wheeled Drone</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>30</Speed>
+            <Pilot>3</Pilot>
+            <Body>4</Body>
+            <Armour>4</Armour>
+            <Sensors>2</Sensors>
+            <Availability>4</Availability>
+            <Cost>6000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>McDonnell-Douglas Nimrod</Name>
+            <Type>Large Drone</Type>
+            <Subtype>Aerial Combat Drone</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>40</AccelerationWalk>
+            <AccelerationRun>200</AccelerationRun>
+            <Speed>800</Speed>
+            <Pilot>3</Pilot>
+            <Body>4</Body>
+            <Armour>8</Armour>
+            <Sensors>3</Sensors>
+            <Availability>18F</Availability>
+            <Cost>75000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Mesametric Beaver</Name>
+            <Type>Large Drone</Type>
+            <Subtype>Walker Construction Drone</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>15</Speed>
+            <Pilot>3</Pilot>
+            <Body>4</Body>
+            <Armour>8</Armour>
+            <Sensors>1</Sensors>
+            <Availability>-</Availability>
+            <Cost>4000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Mitsuhama Tomino</Name>
+            <Type>Large Drone</Type>
+            <Subtype>Walker Drone</Subtype>
+            <Handling>2</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>15</AccelerationRun>
+            <Speed>35</Speed>
+            <Pilot>-</Pilot>
+            <Body>10</Body>
+            <Armour>10</Armour>
+            <Sensors>3</Sensors>
+            <Availability>24R</Availability>
+            <Cost>350000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Saeder-Krupp Mk-17D Neptune</Name>
+            <Type>Large Drone</Type>
+            <Subtype>Submersible Drone</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>30</Speed>
+            <Pilot>3</Pilot>
+            <Body>4</Body>
+            <Armour>12</Armour>
+            <Sensors>3</Sensors>
+            <Availability>10</Availability>
+            <Cost>22000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Saeder-Krupp Schildkröte</Name>
+            <Type>Large Drone</Type>
+            <Subtype>Hazmat Drone</Subtype>
+            <Handling>-1</Handling>
+            <AccelerationWalk>5</AccelerationWalk>
+            <AccelerationRun>20</AccelerationRun>
+            <Speed>40</Speed>
+            <Pilot>3</Pilot>
+            <Body>4</Body>
+            <Armour>6</Armour>
+            <Sensors>2</Sensors>
+            <Availability>10</Availability>
+            <Cost>8000</Cost>
+        </Vehicle>
+        <Vehicle>
+            <Name>Wuxing Crimson Samurai</Name>
+            <Type>Large Drone</Type>
+            <Subtype>Wheeled Drone</Subtype>
+            <Handling>1</Handling>
+            <AccelerationWalk>15</AccelerationWalk>
+            <AccelerationRun>30</AccelerationRun>
+            <Speed>100</Speed>
+            <Pilot>3</Pilot>
+            <Body>4</Body>
+            <Armour>12</Armour>
+            <Sensors>3</Sensors>
+            <Availability>10R</Availability>
+            <Cost>9500</Cost>
+        </Vehicle>
+    </Vehicles>
+    <Upgrades type="array">
+        <Upgrade>
+            <Name>Chameleon Coating</Name>
+            <Threshold>16</Threshold>
+            <Cost>Body*1000</Cost>
+            <Availability>12R</Availability>
+            <SpecialSkill>-</SpecialSkill>
+            <Tools>Shop</Tools>
+            <Slots>2</Slots>
+        </Upgrade>
+    </Upgrades>
+</Data>

@@ -1,0 +1,13 @@
+<Data>
+    <Vehicles type="array">
+        <Upgrades>
+            <Name>Chameleon Coating</Name>
+            <Threshold>16</Threshold>
+            <Cost>Body*1000</Cost>
+            <Availability>12R</Availability>
+            <SpecialSkill>-</SpecialSkill>
+            <Tools>Shop</Tools>
+            <Slots>2</Slots>
+        </Upgrades>
+    </Vehicles>
+</Data>
